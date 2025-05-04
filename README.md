@@ -1,3 +1,4 @@
+https://country-ex.netlify.app/--hosting url
 # 🌍 Countries Web App
 
 This is a web application that allows users to explore detailed information about countries, including population, area, languages, and more. It uses public APIs to fetch real-time data and provides a responsive, user-friendly interface.
@@ -41,3 +42,5 @@ cd af-2-chanuri2001
 Install dependencies = npm install
 Build Instructions = npm run build
 Testing = npm test
+
+
