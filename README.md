@@ -1,4 +1,4 @@
-https://country-ex.netlify.app/--hosting url
+https://country-ex.netlify.app/   (hosting url)
 # 🌍 Countries Web App
 
 This is a web application that allows users to explore detailed information about countries, including population, area, languages, and more. It uses public APIs to fetch real-time data and provides a responsive, user-friendly interface.
